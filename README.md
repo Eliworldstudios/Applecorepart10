@@ -1,5 +1,5 @@
 # EaglerCraftX Server
-
+Join ApplecoreNetwork (since 2022) wss://stunning-space-train-94vwq4g4prph99v-8081.app.github.dev/
 ## Credits
 Original Project: Lax1Dude
 <br>
